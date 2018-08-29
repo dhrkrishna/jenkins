@@ -56,9 +56,9 @@ THE SOFTWARE.
   </modules>
 
   <scm>
-    <connection>scm:git:git://github.com/jenkinsci/jenkins.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/jenkins.git</developerConnection>
-    <url>https://github.com/jenkinsci/jenkins</url>
+    <connection>scm:git:https://github.com/dhrkrishna/jenkins</connection>
+    <developerConnection>scm:git:https://github.com/dhrkrishna/jenkins</developerConnection>
+    <url>https://github.com/dhrkrishna/jenkins</url>
     <tag>${scmTag}</tag>
   </scm>
 
